@@ -1,2 +1,2 @@
 # Product-parser
-Parse the price of materials we are interested in from taobo and iHerb.
+- Parse the price of materials of product we are interested in from taobo and iHerb.
